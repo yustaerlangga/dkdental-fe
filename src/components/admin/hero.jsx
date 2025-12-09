@@ -114,7 +114,7 @@ export default function HeroAdmin() {
       {/* Logo Section */}
      <div className="flex justify-center mb-8">
   <img
-    src="../../../public/DK Dental Care.png" alt="DK Dental Care"
+    src="/DK Dental Care.png" alt="DK Dental Care"
     className="rounded-xl shadow-sm opacity-90 object-cover"
     style={{ width: "1600px", height: "750px" }}
   />
