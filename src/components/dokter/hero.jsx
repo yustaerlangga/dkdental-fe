@@ -123,7 +123,7 @@ export default function HeroDokter({ user, appointments = [], dokterData }) {
       {/* --- LOGO / IMAGE SECTION--- */}
       <div className="flex justify-center mb-8">
         <img
-          src="../../../public/DK Dental Care.png" 
+          src="/DK Dental Care.png" 
           alt="DK Dental Care"
           className="rounded-xl shadow-sm opacity-90 object-cover w-full"
           style={{ height: "750px" , width: "1600px"}} 
